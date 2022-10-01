@@ -30,6 +30,7 @@ Debe regresar un objeto como este:
 ```
 
 > Copia el valor de shortUrl 
-> Por ejemplo: **http:localhost:5000/w-zBtmAd0**
+> Por ejemplo: 
+**http:localhost:5000/w-zBtmAd0**
 > y pegalo en un navegador.
 > Debera redirigir a la url original.
