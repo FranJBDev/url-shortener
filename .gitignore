@@ -9,3 +9,6 @@ node_modules
 
 # Ignora vsc files
 .vscode
+
+# Ignora .prettierignore
+.prettierignore
